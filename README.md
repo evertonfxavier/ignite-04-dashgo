@@ -33,8 +33,5 @@ que mostra um Dashboard com gráfico e também um cadastro de usuários.
 * <ins>MirageJs</ins>, uma fake API que não necessitar rodar o servidor em terminal
 * <ins>Faker</ins>, uma biblioteca que gera dados aleatórios
 
-## :camera_flash: Screenshots
-![](https://github.com/luiizsilverio/dashgo/blob/main/public/dashgo.gif)
-
 ## :balance_scale: Licença
 Este projeto está licenciado sob a [licença MIT](LICENSE).
